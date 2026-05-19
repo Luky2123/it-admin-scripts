@@ -1,2 +1,2 @@
-# it-admin-scripts
+# CAB Printer  update DB
 My scripts 
